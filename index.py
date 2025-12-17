@@ -3,8 +3,8 @@ import requests
 import boto3
 import json
 
-ACCESS_KEY = "AKIAZGNHKJJ44SLJZQ5D///"
-ACCESS_SECRET = "qLFNrNK3xTuu8OtHkEtho/kj1RsUWD/L41/F57Xa//"
+ACCESS_KEY = "///"
+ACCESS_SECRET = "//"
 BUCKET_NAME = "spotify1-bucket"
 REGION_NAME = "ap-south-1"
 OBJECT_NAME = "spotify/spotifydata.json"
